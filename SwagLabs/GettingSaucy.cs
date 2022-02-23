@@ -16,11 +16,11 @@ namespace SwagLabs
     public class GettingSaucy
     {
         IWebDriver driver;
-        string USERNAME = "performance_glitch_user";
-        string PASSWORD = "secret_sauce";
-        string FIRSTNAME = "AUTOMATED";
-        string LASTNAME = "TEST";
-        string ZIPCODE = "07111";
+        string USERNAME = "SITES USERNAME";
+        string PASSWORD = "SITES PASSWORD";
+        string FIRSTNAME = "YOUR FIRST NAME";
+        string LASTNAME = "YOUR LAST NAME";
+        string ZIPCODE = "YOUR ZIP CODE";
         string SWAG = "Congrats! You have successfully logged in...sorted porducts from cheapest to most expensive...selected items to purchase...checkout...fill shipping form...finish...and logged out";
         string OOPS = "Not Quite...Try Again";
         [TestInitialize]
