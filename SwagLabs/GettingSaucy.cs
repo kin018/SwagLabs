@@ -36,7 +36,7 @@ namespace SwagLabs
         {
             driver.Quit();
         }
-
+        
         [TestMethod]
         public void GettingSaucyTestMethod()
         {
