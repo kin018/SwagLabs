@@ -20,7 +20,7 @@ namespace SwagLabs
         string PASSWORD = "SITES PASSWORD"; //Option can be found on <https://www.saucedemo.com/>
         string FIRSTNAME = "YOUR FIRST NAME";
         string LASTNAME = "YOUR LAST NAME";
-        string ZIPCODE = "YOUR ZIP CODE"";
+        string ZIPCODE = "YOUR ZIP CODE";
         string SWAG = "Congrats! You have successfully logged in...sorted porducts from cheapest to most expensive...selected items to purchase...checkout...fill shipping form...finish...and logged out";
         string OOPS = "Not Quite...Try Again";
         [TestInitialize]
